@@ -2,6 +2,8 @@
 
   ChatBot that gives you details of direct flights available from given source to destination including price, departure time,etc.
   
+Link to the [Bot](https://t.me/ankurflightbot)
+
 ## Test this yourself 
 
   - Clone this repo.
